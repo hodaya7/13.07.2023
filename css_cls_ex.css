@@ -1,0 +1,19 @@
+.my-class {
+    color: purple;
+}
+
+span.green-class {
+    color: green;
+}
+
+span.hover-class:hover {
+    color: orange;
+}
+
+span[name="yellow-name"] {
+    color: yellow;
+}
+
+#my-pink {
+    color: pink;
+}
