@@ -1,4 +1,4 @@
-div {
+/* div {
     padding-bottom: 250px;
     margin-right: 500px;
     border: 1px solid;
@@ -21,4 +21,18 @@ li {
     top: -550px;
     left: 600px;
     position: relative;
+} */
+
+div {
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin-left: 20px;
+    border: 1px solid;
+    background-color: yellow;
+}
+ul {
+    border: 3px solid red;
+    background-color: blue;
+    margin: 0;
 }
